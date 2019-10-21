@@ -1,1 +1,1 @@
-# MayusBlockFixManjaro
+# FixForCapsLockDelay
